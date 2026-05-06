@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub](https://github.com/ThePageGuy/blog-preview-card)
-- Live Site URL: [Demo](https://your-live-site-url.com)
+- Live Site URL: [Demo](https://thepageguy.github.io/blog-preview-card/)
 
 ## My process
 
